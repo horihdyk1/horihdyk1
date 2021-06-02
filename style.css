@@ -1,0 +1,14 @@
+h1 {
+	font-size: 350%;
+	font-family: "Parisienne", cursive;
+}
+
+h2 {
+	font-size: 3rem;
+	font-family: "Playball", cursive;
+}
+
+.container,
+.container > .row {
+	min-height: 100vh;
+}
